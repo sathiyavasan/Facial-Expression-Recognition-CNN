@@ -1,0 +1,11 @@
+# System & Local Cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Dataset Files
+dataset/train/
+dataset/test/
+*.zip
+*.tar.gz
